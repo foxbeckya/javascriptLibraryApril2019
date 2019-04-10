@@ -1,0 +1,31 @@
+.wrapper{
+    margin: 5px;
+}
+
+/* 3 */
+h1{
+    text-align: center;
+}
+/*this sets the background color of the entire body*/
+body{
+    background-color: lightgray;
+}
+
+/* 4 */
+.background1{
+    background-color: lightblue;
+}
+
+/* 5 */
+.background2{
+    background-image:url("../4-assets/upfeathers.png");
+}
+
+/* 7 */
+table, th, td{
+    border: 1px solid black;
+}
+/* It's important to note how the file path works here: ../4-assets/upfeathers.png. 
+When we use ../, that means back up one level from the current directory, then, 
+go look for the 4-assets folder. Inside there, look for upfeathers.png. 
+If we wanted to look two directories above, we could say ../../. */
