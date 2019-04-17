@@ -111,4 +111,5 @@ Have values ('blue', 'green', 'yellow'), separated by commas
 var stepsToBrushTeeth=['uncap toothpaste', 'squeeze toothpaste', 'rinse brush', 'brush', 'clean toothbrush'];
 //array indexing               0                1                    2             3         4                  
 //console.log(stepsToBrushTeeth);
-console.log(stepsToBrushTeeth[0])
+console.log(stepsToBrushTeeth[0]);
+console.log(typeof stepsToBrushTeeth);
