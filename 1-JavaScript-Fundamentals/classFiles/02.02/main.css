@@ -1,0 +1,22 @@
+body{
+    background-color: #6B7F92;
+}
+
+.help {font-family: 'Dosis', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    }
+.helpfulThings{
+font-family: 'Economica', sans-serif;
+font-size: 30px;
+}
+
+.struggle {font-family: 'Dosis', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    }
+
+.struggleThings{
+    font-family: 'Economica', sans-serif;
+    font-size: 30px;
+    }
