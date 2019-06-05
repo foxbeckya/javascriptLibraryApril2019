@@ -1,0 +1,15 @@
+#styleTest{
+  text-align: center;
+  border: 50px dashed green;
+}
+
+#tabs{
+display: flex;
+justify-content: space-around;
+color: black;
+  }
+
+.image{
+  align: left;
+  width: 100px; 
+}

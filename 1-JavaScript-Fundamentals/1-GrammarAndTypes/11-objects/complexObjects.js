@@ -36,38 +36,38 @@ console.log(netflix.season1.seasonInfo.episodeInfo[3].episodeName);
 console.log(netflix.season1.seasonInfo.episodeInfo[5].episode, netflix.season1.seasonInfo.episodeInfo[5].episodeName);
 //JSON-> JavaScript Object Notation. take a stringified piece and turn it into JS
 
-json object:
-var json = {
-"workbench.colorTheme": "One Dark+ (Sublime)",
-"window.zoomLevel": 3,
-"files.exclude": {
-"**/.git": true,
-"**/.DS_Store": true,
-"**/*.js": {
-"when": "$(basename).ts"
-},
-"**/*.js.map": {
-"when": "$(basename)"
-}
-},
-"editor.fontFamily": "Monaco, 'Courier New', monospace",
-"editor.detectIndentation": false,
-"editor.letterSpacing": 0,
-"editor.tabSize": 2,
-"files.autoSave": "off",
-"editor.wordWrap": "on",
-"extensions.ignoreRecommendations": true,
-"[html]": {},
-"files.associations": {
-"*.html": "html",
-"*.js": "javascriptreact"
-},
-"html.format.indentInnerHtml": true,
-"editor.fontSize": 11,
-"liveServer.settings.donotShowInfoMsg": true,
-"liveServer.settings.port": 3500,
-"[javascriptreact]": {}
-}
+// json object;
+// var json = {
+// "workbench.colorTheme": "One Dark+ (Sublime)",
+// "window.zoomLevel": 3,
+// "files.exclude": {
+// "**/.git": true,
+// "**/.DS_Store": true,
+// "**/*.js": {
+// "when": "$(basename).ts"
+// },
+// "**/*.js.map": {
+// "when": "$(basename)"
+// }
+// },
+// "editor.fontFamily": "Monaco, 'Courier New', monospace",
+// "editor.detectIndentation": false,
+// "editor.letterSpacing": 0,
+// "editor.tabSize": 2,
+// "files.autoSave": "off",
+// "editor.wordWrap": "on",
+// "extensions.ignoreRecommendations": true,
+// "[html]": {},
+// "files.associations": {
+// "*.html": "html",
+// "*.js": "javascriptreact"
+// },
+// "html.format.indentInnerHtml": true,
+// "editor.fontSize": 11,
+// "liveServer.settings.donotShowInfoMsg": true,
+// "liveServer.settings.port": 3500,
+// "[javascriptreact]": {}
+// }
 
 
 let spaceJam = {
@@ -126,14 +126,14 @@ baking.bestKeyEver = 'zucchini'
 console.log(baking.bestKeyEver);
 console.log(baking[baking.bestKeyEver]);
 
-let garden ={
-    vegetable: 'zucchini',
-    flower: 'sunflower',
-    fruit: 'grape',
-    water: true,
-    sun: true,
-    size: 10
-}
+// let garden ={
+//     vegetable: 'zucchini',
+//     flower: 'sunflower',
+//     fruit: 'grape',
+//     water: true,
+//     sun: true,
+//     size: 10
+// }
 
 let g= 'water'; 
 
